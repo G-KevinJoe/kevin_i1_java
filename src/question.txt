@@ -1,0 +1,49 @@
+
+Write Java code in a very simple beginner-friendly style one question per file, similar to the coding patterns used in my Java practice folder. Use basic OOP concepts, clear variable names, minimal complexity, and easy-to-understand logic. Do not use advanced Java features unless the question specifically asks for them.
+
+Requirements:
+
+Write plain Java code with a main class and a main method.
+Use simple class structures, not overly abstract design.
+Keep code beginner-level and easy to read.
+Follow school/college Java practice style.
+Use System.out.println() for output.
+Prefer straightforward logic over tricky or optimized code.
+Use concepts like classes, inheritance, interfaces, exception handling, loops, and basic collections only where needed.
+Keep comments minimal or simple.
+Use package names only if required by the project structure.
+Match the style of the code in this repository: clear, direct, educational, and not production-heavy.
+Question:
+q1. com.hospital.staff.doctor.salary.salary -protected calculatesalary(double amt,double
+tax) create following packages and access it.
+a. direct access
+b. by importing
+
+q2. STORE SOME INFORMATION IN PROPERTIES CLASS AND ACCESS IT. DATABASE
+USERNAME/ PASSWORD
+
+q3. Show an example of comparable
+
+q4. Show real time uses of vector with generics?
+Perform following operation
+a. add element into collection
+b. delete element from collections
+c. update element from collection
+d. search elements from collections
+
+q5.SHOW AN EXAMPLE OF STATIC INNER CLASS?
+
+q6.SHOW AN EXAMPLE OF OBJECT ITERATION BY USING FOLLOWING COMPONENTS
+- FOR EACH LOOP
+- ITERATOR
+
+q7.SHOW AN EXAMPLE OF EXCEPTION PROPAGATION?
+
+q8.Show an example of object cloning
+
+q9.Override hashcode and equal contract
+
+q10.Show an example of method overriding (real time case study)
+
+q11.Show implementation of finalize method?
+
